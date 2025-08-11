@@ -1,13 +1,5 @@
 # Advance Step to Protect Agriculture: A Deep Dive into Enhancing Food Security Through EfficientNet-B0 and XAI in Plant Disease Classification
 
-## Authors
-- Sadia Nawar
-- Altaf Uddin
-- Arnob Saha
-- Md. Hamid Hosen
-- Safa Asgar
-- Linkon Chowdhury
-
 ## Abstract
 This paper explores plant disease classification using deep learning models and image segmentation techniques to protect food security. EfficientNet-B0, among other models, is tested on a large dataset of 38 plant disease classes, achieving an accuracy of 99.86%. XAI techniques such as SHAP are utilized to enhance interpretability.
 
